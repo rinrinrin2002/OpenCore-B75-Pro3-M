@@ -28,42 +28,6 @@
 		<data>
 		icT4cT1V6GLP6+UZ7Gv/dM9ucBdYW2VHSITyeFQqPPI=
 		</data>
-		<key>Kexts\BrcmBluetoothInjector.kext\Contents\Info.plist</key>
-		<data>
-		evHDUxTHOMAUL5acQSFXjbtw50Tx2GqCnF8c8aASWkA=
-		</data>
-		<key>Kexts\BrcmBluetoothInjector.kext\Contents\MacOS\BrcmBluetoothInjector</key>
-		<data>
-		eopoe8wjZ9P7dv8mFZNHWFErf1dN6aTw+viQtGZXchY=
-		</data>
-		<key>Kexts\BrcmBluetoothInjector.kext\Contents\_CodeSignature\CodeResources</key>
-		<data>
-		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
-		</data>
-		<key>Kexts\BrcmFirmwareData.kext\Contents\Info.plist</key>
-		<data>
-		Wz6Jb453KbqhAit3uavJx8GRsPz3gPeKBrplnzDZO5g=
-		</data>
-		<key>Kexts\BrcmFirmwareData.kext\Contents\MacOS\BrcmFirmwareData</key>
-		<data>
-		BrHOjpd7enuoNttT75OKOWQJ55zSQyTWo9dxAMkHA5A=
-		</data>
-		<key>Kexts\BrcmFirmwareData.kext\Contents\_CodeSignature\CodeResources</key>
-		<data>
-		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
-		</data>
-		<key>Kexts\BrcmPatchRAM3.kext\Contents\Info.plist</key>
-		<data>
-		ks24o2BlsiJgO8Hrh/ZKHOiKlTbWNlWuWz17rVceg8g=
-		</data>
-		<key>Kexts\BrcmPatchRAM3.kext\Contents\MacOS\BrcmPatchRAM3</key>
-		<data>
-		hhEJLdCwSiboDkis3Xk5XZ7uQEmWZWaLJYWakaINEFg=
-		</data>
-		<key>Kexts\BrcmPatchRAM3.kext\Contents\_CodeSignature\CodeResources</key>
-		<data>
-		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
-		</data>
 		<key>Kexts\CpuTscSync.kext\Contents\Info.plist</key>
 		<data>
 		O3MbzCudCrPBGSYXUwat4pkFe3v6f6HSzzeVLT+lv/c=
@@ -1714,7 +1678,7 @@
 		</data>
 		<key>config.plist</key>
 		<data>
-		DjcSSYUeM+NcwUwr6Pk6emWgITt064H7DXifHppzOD0=
+		4B8x4vib4lq4HwMUIAg4YRHmko1yenLeLzzjx0HdtQI=
 		</data>
 	</dict>
 	<key>Version</key>
